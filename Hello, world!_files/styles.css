@@ -1,0 +1,20 @@
+h1{
+    color:black
+}
+.navbar-dark .navbar-brand {
+    color: white;
+}
+.jumbotron{
+    background-color: grey;
+}
+.display-4{
+    font-size:100px;
+    font-family: 'Roboto', sans-serif;
+}
+.fas {
+    margin-right:200px;
+}
+.navbar-brand{
+    margin-right: 200px;
+    font-size:20px;
+}
